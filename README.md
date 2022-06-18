@@ -1,2 +1,2 @@
 # Control UR10 Arm Robot in CoppeliaSim with Python
-This project shows you how to program an arm robot in Coppeliasim by using Remote API python
+This project is the example of controlling an UR10 arm robot in CoppeliaSim with python through the RemoteAPI. 
