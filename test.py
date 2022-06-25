@@ -3,7 +3,7 @@ import time
 
 # add command to this file
 # Cool I think this already connected to the file
-
+# Another command to be updated to the server, check this if you are okay and see this change
 
 sim = CoppeliaSim()
 sim.connect(19997)
