@@ -1,6 +1,10 @@
 from coppeliasim import CoppeliaSim, Robot
 import time
 
+# add command to this file
+# Cool I think this already connected to the file
+
+
 sim = CoppeliaSim()
 sim.connect(19997)
 
